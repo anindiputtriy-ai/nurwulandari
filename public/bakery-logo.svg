@@ -1,0 +1,19 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="95" fill="#FFF8E7" stroke="#D4A574" stroke-width="2"/>
+  
+  <!-- Bread illustration -->
+  <path d="M40 120 Q40 100 60 100 L80 100 Q85 95 85 90 Q85 85 80 85 L60 85 Q35 85 35 110 L35 130 Q35 145 50 145 L70 145 Q75 145 75 140 Q75 135 70 135 L50 135 Q40 135 40 120 Z" fill="#D4A574"/>
+  
+  <!-- Cake illustration -->
+  <rect x="110" y="110" width="60" height="40" rx="3" fill="#8B4513"/>
+  <rect x="110" y="105" width="60" height="8" rx="2" fill="#FFB6C1"/>
+  <circle cx="125" cy="105" r="3" fill="#FF69B4"/>
+  <circle cx="140" cy="105" r="3" fill="#FF1493"/>
+  <circle cx="155" cy="105" r="3" fill="#FF69B4"/>
+  
+  <!-- Company name -->
+  <text x="100" y="170" font-family="Georgia, serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#8B4513">NUR</text>
+  <text x="100" y="185" font-family="Georgia, serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#A0522D">WULANDARI</text>
+  <text x="100" y="195" font-family="Arial, sans-serif" font-size="8" text-anchor="middle" fill="#D4A574">Bakery & Cake</text>
+</svg>
